@@ -21,6 +21,13 @@ This repository is organized to showcase my work throughout the course, and it w
         - Clustering
         - Dimensionality Reduction
   - Reinforcement Learning
+      - Agent
+      - Environment
+      - Action
+      - Reward
+      - Policy
+      - State/Configuration
+      - Exploration vs Exploitation
   - Deep Learning
       - Computer Vision
       - NLP
