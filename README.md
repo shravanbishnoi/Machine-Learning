@@ -38,7 +38,7 @@ This repository is organized to showcase my work throughout the course, and it w
       - Optimisation
     
 ## Assignments:
-
+1. Linear-Multiple Regression
 
 ## Projects:
 
