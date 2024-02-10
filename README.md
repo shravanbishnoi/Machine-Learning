@@ -40,6 +40,7 @@ This repository is organized to showcase my work throughout the course, and it w
 ## Assignments:
 1. Linear-Multiple Regression
 2. Bag of words
+3. Linear Regression (Epochs)
 
 ## Projects:
 
